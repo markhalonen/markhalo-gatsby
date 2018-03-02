@@ -1,11 +1,13 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import mapImage from '../images/map.png'
 
 const About = () => (
   <div>
-    <h1>About</h1>
-    <p>Welcome to page 2</p>
-    <Link to="/">Go back to the homepage</Link>
+    <div style={{textAlign: 'center'}}>
+      <img src={mapImage} alt="Map" style={{width: '500px', align:"middle"}}/>
+    </div>
+    <p>I reside in Brighton, Michigan and commute to Ann Arbor. When I'm not building software, I'm lifting weights, reading books, reading the internet, and socializing.</p>
   </div>
 )
 

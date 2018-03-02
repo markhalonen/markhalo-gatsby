@@ -25,7 +25,7 @@ const Header = () => (
             Home
           </Link>
           <Link
-            to="/About"
+            to={'/About'}
             style={{
               color: 'black',
               paddingLeft: 10
@@ -33,6 +33,23 @@ const Header = () => (
           >
             About
           </Link>
+          <a style={{
+            color: 'black',
+            paddingLeft: 10
+          }}
+          target="_blank"
+          href={'https://drive.google.com/open?id=1DTiFpHyIbugrMrrYwyCSWk6SC2cNH5td'}>
+          Resume
+        </a>
+        <Link
+          to={'/Contact'}
+          style={{
+            color: 'black',
+            paddingLeft: 10
+          }}
+        >
+          Contact
+        </Link>
         </h3>
     </div>
   </div>
