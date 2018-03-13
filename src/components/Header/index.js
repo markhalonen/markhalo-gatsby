@@ -6,6 +6,7 @@ const Header = () => (
     style={{
       background: 'lightgrey',
       marginBottom: '1.45rem',
+      textAlign: 'center'
     }}
   >
     <div
