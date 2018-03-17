@@ -9,6 +9,8 @@ const Header = () => (
       textAlign: 'center'
     }}
   >
+    <title>Mark Halonen</title>
+    <meta name="description" content="Mark Halonen Michigan Software Engineer Developer"/>
     <div
       style={{
         margin: '0 auto',
