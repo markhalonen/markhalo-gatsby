@@ -17,7 +17,6 @@ const IndexPage = () => (
       </div>
       <div style={{paddingTop: 10}}>
         <p>Hello! My name is Mark Halonen. I'm the creator of <a href="https://getVora.com" target="_blank">Vora</a>, an Android and iOS fasting tracker. I'm currently a full-time engineer at <a href="https://networks.nokia.com/solutions/deepfield-ip-network-analytics-DDoS-protection" target="_blank">Deepfield</a>, working on software that helps large enterprises understand their networks.</p>
-      <p>I am available for hire on freelance projects.</p>
       </div>
     </div>
   </div>
