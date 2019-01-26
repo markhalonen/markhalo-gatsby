@@ -10,7 +10,7 @@ const Header = () => (
     }}
   >
     <title>Mark Halonen</title>
-    <meta name="description" content="Mark Halonen Michigan Software Engineer Developer"/>
+    <meta name="description" content="Mark Halonen Michigan Software Engineer Developer" />
     <div
       style={{
         margin: '0 auto',
@@ -18,30 +18,30 @@ const Header = () => (
         padding: '1.45rem 1.0875rem',
       }}
     >
-        <h3 style={{ margin: 0}}>
-          <Link
-            to="/"
-            style={{
-              color: 'black',
-            }}
-          >
-            Home
+      <h3 style={{ margin: 0 }}>
+        <Link
+          to="/"
+          style={{
+            color: 'black',
+          }}
+        >
+          Home
           </Link>
-          <Link
-            to={'/About'}
-            style={{
-              color: 'black',
-              paddingLeft: 10
-            }}
-          >
-            About
-          </Link>
-          <a style={{
+        <Link
+          to={'/About'}
+          style={{
             color: 'black',
             paddingLeft: 10
           }}
+        >
+          About
+          </Link>
+        <a style={{
+          color: 'black',
+          paddingLeft: 10
+        }}
           target="_blank"
-          href={'https://drive.google.com/open?id=1DTiFpHyIbugrMrrYwyCSWk6SC2cNH5td'}>
+          href={'https://drive.google.com/file/d/1fGAkWizVorNnsxDuxhETISvMeGRyiCmi/view?usp=sharing'}>
           Resume
         </a>
         <Link
@@ -53,7 +53,7 @@ const Header = () => (
         >
           Contact
         </Link>
-        </h3>
+      </h3>
     </div>
   </div>
 )
