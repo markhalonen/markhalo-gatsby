@@ -41,7 +41,7 @@ const Header = () => (
           paddingLeft: 10
         }}
           target="_blank"
-          href={'https://drive.google.com/file/d/1QnxHFoCFrrNk1uie1mi6fyhxKszHJTZu/view?usp=sharing'}>
+          href={'https://drive.google.com/open?id=1o650CzM1l2gJnWrk1VgYvz8uYDv3SHcX'}>
           Resume
         </a>
         <Link
