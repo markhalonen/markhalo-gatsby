@@ -16,7 +16,7 @@ const IndexPage = () => (
         <SocialIcon url="https://www.upwork.com/fl/markhalonen" style={{ margin: 5 }} />
       </div>
       <div style={{ paddingTop: 10 }}>
-        <p>Hello! My name is Mark Halonen. I created and then sold <a href="https://getVora.com" target="_blank">Vora</a>, an Android and iOS fasting tracker. I'm currently self-employed and open to taking on new projects.</p>
+        <p>Hello! My name is Mark Halonen. I created and then sold <a href="https://getVora.com" target="_blank">Vora</a>, an Android and iOS fasting tracker. I'm currently partnered with my brother Brent at <a href="https://www.lauriumlabs.com/" target="_blank">Laurium Labs</a>, where we provide scientific software development services.</p>
       </div>
     </div>
   </div>
